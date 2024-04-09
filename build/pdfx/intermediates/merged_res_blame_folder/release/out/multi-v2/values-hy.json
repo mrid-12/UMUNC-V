@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.scer.pdfx-merged_res-11:/values-hy/values-hy.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mrid9\\.gradle\\caches\\transforms-3\\ad7a0c62bb2f38a5967922c48826b115\\transformed\\core-1.6.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.scer.pdfx-mergeReleaseResources-9:/values-hy/values-hy.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mrid9\\.gradle\\caches\\transforms-3\\ad7a0c62bb2f38a5967922c48826b115\\transformed\\core-1.6.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
