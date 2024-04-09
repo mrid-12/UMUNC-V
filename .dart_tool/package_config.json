@@ -8,12 +8,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "archive",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/archive-3.4.10",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "args",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2",
       "packageUri": "lib/",
@@ -92,12 +86,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "convert",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "crypto",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
@@ -134,28 +122,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "dio",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/dio-4.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "easy_image_viewer",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/easy_image_viewer-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "2.19"
-    },
-    {
-      "name": "email_auth",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/email_auth-1.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "email_otp",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/email_otp-2.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.16"
     },
     {
       "name": "enough_media",
@@ -248,12 +218,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "flowder",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/flowder-0.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///C:/src/flutter/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -344,18 +308,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "font_awesome_flutter",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/font_awesome_flutter-10.7.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "gallery_saver",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/gallery_saver-2.3.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "google_nav_bar",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/google_nav_bar-5.0.6",
       "packageUri": "lib/",
@@ -396,12 +348,6 @@
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "intl",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.19.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
     },
     {
       "name": "js",
@@ -518,12 +464,6 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "pdf_thumbnail",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/pdf_thumbnail-0.1.5+1",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "pdfx",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/pdfx-2.4.0",
       "packageUri": "lib/",
@@ -550,12 +490,6 @@
     {
       "name": "plugin_platform_interface",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "pointycastle",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/pointycastle-3.8.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -626,12 +560,6 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "spreadsheet_decoder",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/spreadsheet_decoder-2.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.16"
-    },
-    {
       "name": "sqflite",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.3.2",
       "packageUri": "lib/",
@@ -662,48 +590,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "syncfusion_flutter_core",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_core-20.4.54",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_flutter_pdf",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_pdf-20.4.54",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_flutter_pdfviewer",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_pdfviewer-20.4.54",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_pdfviewer_macos",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_macos-20.4.54",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_pdfviewer_platform_interface",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_platform_interface-20.4.54",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_pdfviewer_web",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_web-20.4.54",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_pdfviewer_windows",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_windows-20.4.54",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "synchronized",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/synchronized-3.1.0+1",
       "packageUri": "lib/",
@@ -720,12 +606,6 @@
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
-    },
-    {
-      "name": "thumbnailer",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/thumbnailer-2.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "typed_data",
@@ -878,7 +758,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-04-09T23:17:18.231727Z",
+  "generated": "2024-04-09T23:42:34.844853Z",
   "generator": "pub",
   "generatorVersion": "3.0.3"
 }

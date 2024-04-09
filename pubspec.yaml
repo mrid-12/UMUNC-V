@@ -33,8 +33,6 @@ dependencies:
   cloud_firestore: ^4.8.1
   fluttertoast:
   shared_preferences:
-  email_auth:
-  email_otp:
   flutter:
     sdk: flutter
   file_picker:
@@ -45,13 +43,7 @@ dependencies:
   firebase_core: ^2.14.0
   firebase_storage:
   path_provider:
-  gallery_saver:
-  dio:
-  syncfusion_flutter_pdfviewer:
   enough_media:
-  pdf_thumbnail:
-  thumbnailer:
-  flowder:
   firebase_auth: ^4.16.0
   hive_local_storage: ^1.1.0
   url_launcher:
