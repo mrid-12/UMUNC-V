@@ -21,6 +21,7 @@
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/just_audio-0.9.37" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus-9.1.2" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage_web-3.6.17" />
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/packages.flutter-4be9de9ffed5398fd7d5f44bbb07dcd3d3f1711b/packages/pdfx" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus-4.2.0" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/just_audio_web-0.4.9" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_web-3.9.0" />
@@ -44,7 +45,6 @@
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_linux-2.2.1" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.2.1" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/fluttertoast-8.2.4" />
-      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/packages.flutter-4be9de9ffed5398fd7d5f44bbb07dcd3d3f1711b/packages/pdfx" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

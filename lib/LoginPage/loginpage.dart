@@ -1,11 +1,8 @@
-import 'package:email_otp/email_otp.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import '../Delegate Home Screens/Del_framework.dart';
-import '../Delegate Home Screens/OTPVerify.dart';
+
 import '../Delegate Home Screens/info.dart';
 import '../backButton.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 
 class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({super.key});
@@ -17,27 +14,6 @@ class _WelcomeScreen extends State<WelcomeScreen> {
   final name = TextEditingController();
   final email = TextEditingController();
   late bool result = false;
-
-  final EmailOTP myauth = EmailOTP();
-
-  void sendOTP() async {
-    myauth.setSMTP(
-      host: "smtp.gmail.com",
-      auth: true,
-      username: "umd.mun@gmail.com",
-      password: "suuliblfmblcuomw",
-      secure: "TLS",
-      port: 587,
-    );
-    myauth.setConfig(
-      appEmail: "umd.mun@gmail.com",
-      appName: "UMUNC OTP",
-      userEmail: email.text,
-      otpLength: 4,
-      otpType: OTPType.digitsOnly,
-    );
-    myauth.sendOTP();
-  }
 
   @override
   Widget build(BuildContext context) {
