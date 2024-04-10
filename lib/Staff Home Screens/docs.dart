@@ -1,19 +1,9 @@
-import 'dart:io';
 import 'dart:ui';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:dio/dio.dart';
-import 'package:enough_media/enough_media.dart';
-import 'package:firebase_storage/firebase_storage.dart';
-import 'package:flowder/flowder.dart';
+
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:gallery_saver/gallery_saver.dart';
-import 'package:path_provider/path_provider.dart';
-import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:url_tile/url_tile.dart';
-
-import '../LoginPage/loginpage.dart';
 
 class docs extends StatefulWidget {
   final String committeename;
