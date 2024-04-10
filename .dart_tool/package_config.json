@@ -50,12 +50,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "chewie_audio",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/chewie_audio-1.5.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.13"
-    },
-    {
       "name": "clock",
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
@@ -126,12 +120,6 @@
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/easy_image_viewer-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "2.19"
-    },
-    {
-      "name": "enough_media",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/enough_media-2.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
     },
     {
       "name": "extension",
@@ -465,7 +453,7 @@
     },
     {
       "name": "pdfx",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/pdfx-2.4.0",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/git/packages.flutter-4be9de9ffed5398fd7d5f44bbb07dcd3d3f1711b/packages/pdfx",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -558,6 +546,12 @@
       "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "sprintf",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "sqflite",
@@ -675,9 +669,9 @@
     },
     {
       "name": "uuid",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-4.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "vector_math",
@@ -758,7 +752,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-04-09T23:42:34.844853Z",
+  "generated": "2024-04-10T00:08:27.445129Z",
   "generator": "pub",
   "generatorVersion": "3.0.3"
 }

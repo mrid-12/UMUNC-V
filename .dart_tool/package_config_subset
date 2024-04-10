@@ -1,3 +1,7 @@
+pdfx
+3.0
+file:///C:/Users/mrid9/AppData/Local/Pub/Cache/git/packages.flutter-4be9de9ffed5398fd7d5f44bbb07dcd3d3f1711b/packages/pdfx/
+file:///C:/Users/mrid9/AppData/Local/Pub/Cache/git/packages.flutter-4be9de9ffed5398fd7d5f44bbb07dcd3d3f1711b/packages/pdfx/lib/
 _flutterfire_internals
 2.18
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/_flutterfire_internals-1.3.16/
@@ -30,10 +34,6 @@ chewie
 2.18
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/chewie-1.7.5/
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/chewie-1.7.5/lib/
-chewie_audio
-2.13
-file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/chewie_audio-1.5.0/
-file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/chewie_audio-1.5.0/lib/
 clock
 2.12
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1/
@@ -82,10 +82,6 @@ easy_image_viewer
 2.19
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/easy_image_viewer-1.4.1/
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/easy_image_viewer-1.4.1/lib/
-enough_media
-2.18
-file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/enough_media-2.2.1/
-file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/enough_media-2.2.1/lib/
 extension
 2.17
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/extension-0.6.0/
@@ -294,10 +290,6 @@ path_provider_windows
 2.19
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.2.1/
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.2.1/lib/
-pdfx
-3.0
-file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/pdfx-2.4.0/
-file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/pdfx-2.4.0/lib/
 petitparser
 2.19
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.4.0/
@@ -354,6 +346,10 @@ source_span
 2.14
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.9.1/
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.9.1/lib/
+sprintf
+2.12
+file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/sprintf-7.0.0/
+file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/sprintf-7.0.0/lib/
 sqflite
 3.0
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.3.2/
@@ -431,9 +427,9 @@ url_tile
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/url_tile-0.0.9/
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/url_tile-0.0.9/lib/
 uuid
-2.12
-file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7/
-file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7/lib/
+2.14
+file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-4.2.2/
+file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-4.2.2/lib/
 vector_math
 2.14
 file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4/

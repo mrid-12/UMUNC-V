@@ -13,7 +13,7 @@ class Position extends StatefulWidget {
   final String grade;
   final String committee;
   final String committeedb;
-  Position({
+  const Position({
     Key? key,
     required this.name,
     required this.email,
