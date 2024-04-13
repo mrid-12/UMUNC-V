@@ -9,9 +9,9 @@
     },
     {
       "name": "args",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "async",
@@ -249,9 +249,9 @@
     },
     {
       "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.18",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.19",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_secure_storage",
@@ -447,15 +447,15 @@
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.2",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.3",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.1"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.3",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.4",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "path_provider_foundation",
@@ -525,15 +525,15 @@
     },
     {
       "name": "shared_preferences",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences-2.2.2",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences-2.2.3",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "shared_preferences_android",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.2.1",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
       "name": "shared_preferences_foundation",
@@ -645,15 +645,15 @@
     },
     {
       "name": "url_launcher",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.2.5",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.2.6",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.0",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "url_launcher_ios",
@@ -711,19 +711,19 @@
     },
     {
       "name": "video_player",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/video_player-2.8.5",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/video_player-2.8.6",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_android-2.4.12",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_android-2.4.13",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "video_player_avfoundation",
-      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_avfoundation-2.5.6",
+      "rootUri": "file:///C:/Users/mrid9/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_avfoundation-2.5.7",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -794,7 +794,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-04-10T08:02:25.343658Z",
+  "generated": "2024-04-13T01:00:49.785409Z",
   "generator": "pub",
   "generatorVersion": "3.3.3"
 }
