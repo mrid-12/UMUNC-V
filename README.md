@@ -9,7 +9,7 @@ Tech Stack- [Flutter](https://flutter.dev/), [Firebase](https://firebase.google.
 ## Features
   #### Staff features
     - Staff Portal to update announcements during committee in realtime using Firebase.
-    - Ability to updload and delete documents for a specific committe, only visible to students that are part of the given committee.
+    - Ability to upload and delete documents for a specific committee, only visible to students that are part of the chosen committee.
   #### Delegate features
     - Simple account create, update and delete.
     - Simple Schedule to see the conference timings and room required to go to.
