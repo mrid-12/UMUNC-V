@@ -1,7 +1,7 @@
 # UMUNC V
 This is the repository containing code for the published App _UMUNC V_, UMD's High School Model United Nations Conference's application. It will soon be updated for _UMUNC VI_, with newer features, and a more user friendly UI.<br>
-For more information about the conference itself- [UMUNC VI](https://umdmun.org/about-umunc)<br>
-Application Download Link- [App Store](https://apps.apple.com/us/app/umunc-v/id6498310982)<br>
+For more information about the conference itself- [UMUNC VI](https://umdmun.org/umunc)<br>
+Application Download Link- [App Store](https://apps.apple.com/us/app/umunc-v/id6498310982)<br> <- Unfortunately, did not continue hosting on the app store due to high cost :)
 Tech Stack- [Flutter](https://flutter.dev/), [Firebase](https://firebase.google.com/)<br>
 
 `Note: The first release of this application (UMUNC V) was not polished in terms of UI, and was built to ensure functionality`
